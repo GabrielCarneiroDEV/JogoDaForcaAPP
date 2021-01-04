@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo da Forca</string>
+    <string name="letras_erradas">Letras Erradas</string>
+    <string name="insira_seu_palpite">insira seu palpite...</string>
+    <string name="enviar">Enviar</string>
+    <string name="voc_tem_mais">Você ainda tem</string>
+</resources>
