@@ -6,4 +6,7 @@
     <string name="voc_tem_mais">Você ainda tem</string>
     <string name="palpite_incorreto">Palpite Incorreto :(</string>
     <string name="perdeu_o_jogo">você perdeu o jogo!</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="jogo_da_forca">JOGO DA FORCA</string>
 </resources>
