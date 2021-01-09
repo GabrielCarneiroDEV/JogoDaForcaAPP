@@ -38,7 +38,7 @@ class GameActivity : AppCompatActivity() {
 
             for((i, letra )in palavra.withIndex()){
                 //acertou
-                if (letra.toString().toUpperCase() == palpite.toUpperCase()){
+                if (letra.toString().toUpperCase() == palpite.toUpperCase() && forca[i] != palpite.toUpperCase()){
                    acertou = true
                     forca[i] = palpite.toUpperCase()
                     qtdAcertos++
